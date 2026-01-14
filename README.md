@@ -11,12 +11,12 @@ rather than production-level abstraction or performance optimization.
 ## Organization
 
 Source files are grouped by the primary concept they explore.
-
+```
 src/
 ├── randomness/
 │ ├── ProceduralSpaceScene.java
 │ └── AnimatedStateEvolution.java
-
+```
 
 
 Each program focuses on a narrow set of ideas and is kept intentionally
