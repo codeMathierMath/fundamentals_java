@@ -1,4 +1,3 @@
-# Java Fundamentals
 
 This repository collects a small set of Java programs written to
 develop and demonstrate core computer science fundamentals.
@@ -18,12 +17,8 @@ src/
 │ └── AnimatedStateEvolution.java
 ```
 
-
-Each program focuses on a narrow set of ideas and is kept intentionally
-small in scope.
----
-
-## Scope and Intent
+## Scope and Intent: Each program focuses on a narrow set of ideas and is kept intentionally
+ small in scope
 
 This repository is meant to serve as:
 - a reference for foundational Java and CS concepts
