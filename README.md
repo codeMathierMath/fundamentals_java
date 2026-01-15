@@ -17,8 +17,8 @@ src/
 │ └── AnimatedStateEvolution.java
 ```
 
-## Scope and Intent: Each program focuses on a narrow set of ideas and is kept intentionally 
-## small in scope
+## Scope and Intent: Each program focuses on a narrow set of ideas
+## and is kept intentionally small in scope
 
 This repository is meant to serve as:
 - a reference for foundational Java and CS concepts
