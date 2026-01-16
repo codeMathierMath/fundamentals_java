@@ -1,3 +1,4 @@
+## Fundamentals with Java
 
 This repository collects a small set of Java programs written to
 develop and demonstrate core computer science fundamentals.
@@ -7,7 +8,7 @@ rather than production-level abstraction or performance optimization.
 
 ---
 
-## Organization
+## Structure
 
 Source files are grouped by the primary concept they explore.
 ```
@@ -17,8 +18,8 @@ src/
 │ └── AnimatedStateEvolution.java
 ```
 
-## Scope and Intent: Each program focuses on a narrow set of ideas
-## and is kept intentionally small in scope
+## Scope and Intent
+Each program focuses on a narrow set of ideas and is kept intentionally small in scope
 
 This repository is meant to serve as:
 - a reference for foundational Java and CS concepts
@@ -41,3 +42,10 @@ Some programs in this repository originated as early coursework and were
 later cleaned up and reorganized for clarity. Later work explores more
 data-driven and extensible approaches.
 
+## Dependencies
+   
+This project uses Princeton's introductory library for visualization:
+
+- **StdDraw** — 2D graphics rendering
+
+This file is included locally in the `lib/` directory for convenience.
